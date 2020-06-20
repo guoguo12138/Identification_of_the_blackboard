@@ -9,7 +9,7 @@ using namespace std;
 using namespace cv;
 
 //a change
-//
+//other change
 
 int iLowH = 70;
 int iHighH = 115;
